@@ -1,6 +1,4 @@
 describe('Ecosia.org Demo', function() {
-  this.tags = ['demo'];
-
   before(browser => browser.navigateTo('https://www.ecosia.org/'));
 
   it('Demo test ecosia.org', function(browser) {
