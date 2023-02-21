@@ -10,6 +10,5 @@ describe('Ecosia.org Demo', function() {
       .click('button[type=submit]')
       .assert.textContains('.layout__content', 'Nightwatch.js');
   });
-
   after(browser => browser.end());
 });
