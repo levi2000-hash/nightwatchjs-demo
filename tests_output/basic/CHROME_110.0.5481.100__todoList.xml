@@ -5,9 +5,9 @@
 
   <testsuite name="basic.todoList"
     errors="0" failures="0" hostname="" id="" package="basic" skipped="0"
-    tests="1" time="0.5460" timestamp="">
+    tests="1" time="1.226" timestamp="">
   
-    <testcase name="should add a todo using global element()" classname="basic.todoList" time="0.5460" assertions="3">
+    <testcase name="should add a todo using global element()" classname="basic.todoList" time="1.226" assertions="3">
 
     
 

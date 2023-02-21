@@ -5,9 +5,9 @@
 
   <testsuite name="basic.duckDuckGo"
     errors="0" failures="0" hostname="" id="" package="basic" skipped="0"
-    tests="1" time="2.201" timestamp="">
+    tests="1" time="2.170" timestamp="">
   
-    <testcase name="Search Nightwatch.js and check results" classname="basic.duckDuckGo" time="2.201" assertions="3">
+    <testcase name="Search Nightwatch.js and check results" classname="basic.duckDuckGo" time="2.170" assertions="3">
 
     
 

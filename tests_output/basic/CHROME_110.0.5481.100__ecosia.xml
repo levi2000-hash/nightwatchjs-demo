@@ -5,9 +5,9 @@
 
   <testsuite name="basic.ecosia"
     errors="0" failures="0" hostname="" id="" package="basic" skipped="0"
-    tests="1" time="1.955" timestamp="">
+    tests="1" time="1.803" timestamp="">
   
-    <testcase name="Demo test ecosia.org" classname="basic.ecosia" time="1.955" assertions="5">
+    <testcase name="Demo test ecosia.org" classname="basic.ecosia" time="1.803" assertions="5">
 
     
 
